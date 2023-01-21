@@ -3,6 +3,7 @@
 <div align="center">
     <a href="https://discord.com/users/1066089639548563589" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/1066089639548563589"></a>
 </div>
+
 ## Üzerinde Çalıştığım Yazılım Dilleri.
 
 <div align="center">
