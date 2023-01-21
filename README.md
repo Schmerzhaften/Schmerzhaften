@@ -19,6 +19,6 @@
 
 <div align="center">
     <a href="https://discord.com/users/1066089639548563589" target="_blank"><img src="https://shields.io/badge/Raiden-111111.svg?&style=for-the-badge&logo=discord"></a>
-    <a href="https://github.com/Schmerzhaften" target="_blank"><img src="https://shields.io/badge/FearlesSs-111111.svg?&style=for-the-badge&logo=github"></a>
+    <a href="https://github.com/Schmerzhaften" target="_blank"><img src="https://shields.io/badge/Schmerzhaften-111111.svg?&style=for-the-badge&logo=github"></a>
 </div>
 
