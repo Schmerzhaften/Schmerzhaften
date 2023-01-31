@@ -1,4 +1,4 @@
-COPY PASE DEV
+COPY PASTE DEV
 ![profile count](https://komarev.com/ghpvc/?username=Schmerzhaften&color=8b72ff)&nbsp;
 <div align="center">
 ## Üzerinde Çalıştığım Yazılım Dilleri.
